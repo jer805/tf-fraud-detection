@@ -1,0 +1,11 @@
+/.ipynb_checkpoints/*
+/cc_old/*
+/data/*
+CURRENT.py
+Solution2.py
+for_jupyter_v1.py
+for_jupyter_v2.py
+randomforest.py
+trying to undersample.py
+tuning.py
+.~lock.TEST_FINAL.csv#
