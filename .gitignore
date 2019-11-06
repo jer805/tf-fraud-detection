@@ -9,3 +9,7 @@ randomforest.py
 trying to undersample.py
 tuning.py
 .~lock.TEST_FINAL.csv#
+checkpoint
+full_data_epoch_500_tts_hl500_do3.data-00000-of-00001
+full_data_epoch_500_tts_hl500_do3.index
+rf.dot
